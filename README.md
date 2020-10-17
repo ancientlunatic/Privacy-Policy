@@ -1,2 +1,2 @@
 # Privacy-Policy
-this is a privacy policy page...
+This is a test Facebook Application only for testing purpose.
